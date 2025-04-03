@@ -25,26 +25,9 @@ Bhasha is a **multilingual text and speech translator** built using Python and T
 - **Pygame** (Audio playback)
 - **Threading** (Background processing)
 
-## 🚀 Installation
-### **Step 1: Clone the Repository**
-```sh
-git clone https://github.com/yourusername/bhasha-translator.git
-cd bhasha-translator
-```
-
-### **Step 2: Install Dependencies**
-Make sure you have Python installed. Then run:
-```sh
-pip install -r requirements.txt
-```
-If you don’t have `pip`, install dependencies manually:
+  dependencies:
 ```sh
 pip install googletrans==4.0.0-rc1 gtts pygame SpeechRecognition cryptography
-```
-
-### **Step 3: Run the Application**
-```sh
-python main.py
 ```
 
 ## 📌 Usage
@@ -61,10 +44,10 @@ The interface includes:
 - Output Text Area
 - Language Selection Dropdowns
 - Buttons for Translation, Speech Input, Text-to-Speech, and Clearing Fields
+- ![image](https://github.com/user-attachments/assets/a81d81b5-4fe3-44bb-82b4-daffd76bd0a7)
 
-## 🛠 Code Structure
-- `main.py` → Main script with GUI and core functionality.
-- `requirements.txt` → List of dependencies.
+  
+
 
 ## 🏆 Contributing
 Feel free to contribute! Fork the repo, make changes, and submit a pull request.
@@ -74,7 +57,15 @@ This project is open-source and available under the **MIT License**.
 
 
 ## 💡 Personal Note & Future Work
-This is my **first ever Python project**, and I learned a lot while building it. In the future, I plan to add:
+This is my first ever Python project, and learned a lot while building it. In the future, I plan to add:
+Basic security features to ensure data privacy while translating online:
+ 
+ 🔐 SSL/TLS Encryption: Ensures all API communication is encrypted and protected.
+ 
+ 🛡️ AES Encryption: Securely encrypts text data before sending it for translation.
+ 
+ 🚫 No Data Storage Policy: The app does not store user inputs, speech recordings, or translations.
+ 
 
 
 Excited to keep improving this project and open to feedback!
