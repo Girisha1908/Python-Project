@@ -44,10 +44,7 @@ The interface includes:
 - Language Selection Dropdowns
 - Buttons for Translation, Speech Input, Text-to-Speech, and Clearing Fields
 
-## 🛠 Code Structure
-- `main.py` → Main script with GUI and core functionality.
-  
-##💡 Personal Note & Future Work
+## 🛠 💡 Personal Note & Future Work
 This is my first ever Python project, and learned a lot while building it. In the future, I plan to add:
  Basic security features to ensure data privacy while translating online:
  
