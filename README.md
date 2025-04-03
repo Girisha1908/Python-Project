@@ -48,9 +48,9 @@ The interface includes:
 This is my first ever Python project, and learned a lot while building it. In the future, I plan to add:
  Basic security features to ensure data privacy while translating online:
  
-🔐 SSL/TLS Encryption: Ensures all API communication is encrypted and protected.
-🛡️ AES Encryption: Securely encrypts text data before sending it for translation.
-🚫 No Data Storage Policy: The app does not store user inputs, speech recordings, or translations.
+-🔐 SSL/TLS Encryption: To ensures all API communication is encrypted and protected.
+🛡️ AES Encryption: To securely encrypts text data before sending it for translation.
+🚫 No Data Storage Policy: To ensure the app does not store user inputs, speech recordings, or translations.
 
 
 
