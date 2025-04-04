@@ -44,7 +44,6 @@ The interface includes:
 - Output Text Area
 - Language Selection Dropdowns
 - Buttons for Translation, Speech Input, Text-to-Speech, and Clearing Fields
-- ![image](https://github.com/user-attachments/assets/a6864db1-73c6-4fe9-9981-2a3feacf64b6)
 
 - ![image](https://github.com/user-attachments/assets/a81d81b5-4fe3-44bb-82b4-daffd76bd0a7)
 
